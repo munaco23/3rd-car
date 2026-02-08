@@ -1,8 +1,8 @@
 # Dependencies
 node_modules/
 
-# Build outputs
-dist/
+# Build outputs (uncomment if you want to ignore dist)
+# dist/
 
 # Environment variables
 .env
